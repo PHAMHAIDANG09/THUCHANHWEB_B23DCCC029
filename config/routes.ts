@@ -40,7 +40,13 @@
 		path: '/todo-list',
 		name: 'TodoList',
 		component: './todo_list',
-		icon: 'ArrowsAltOutlined',
+		icon: 'CalendarOutlined',
+	},
+	{
+		path: '/doanso',
+		name: 'Doanso',
+		component: './doan_so',
+		icon: 'RocketOutlined',
 	},
 	
 
